@@ -2,7 +2,7 @@
 Heisenberg Turing
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@_horysa) 
-[![Linkedin](https://www.linkedin.com/in/horysa?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)]
+[![Linkedin](www.linkedin.com/in/horysa)]
 
 # 💻 Tech Stack:
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=csharp&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
